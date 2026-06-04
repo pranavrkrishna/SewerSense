@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pyserial
-websockets
-geopandas
-pandas
